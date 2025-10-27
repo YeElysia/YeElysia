@@ -1,3 +1,11 @@
+阿巴巴，其实不太想在主页放自我介绍，因为能找到这个的其实都是熟人了。
+我叫试鸢，在三墩镇读本科，不出意外将要在这里呆满4年，目前修机械工程，不过在学web和cv,乐。
+
+这里是我的[博客](https://blog.elysium-everlasting.com/),
+你还可以在[这里](https://kiva-la.elysium-everlasting.com/)找到我
+
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=yeelysia&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&hide_border=true"
