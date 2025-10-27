@@ -33,12 +33,12 @@
 
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/YeElysia/YeElysia/5044baa6d0289228377567c400a8324860bea37c/profile-3d-contrib/profile-night-green.svg"
+    srcset="https://github.com/YeElysia/YeElysia/blob/master/profile-3d-contrib/profile-night-green.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://raw.githubusercontent.com/YeElysia/YeElysia/5044baa6d0289228377567c400a8324860bea37c/profile-3d-contrib/profile-season-animate.svg"
+    srcset="https://github.com/YeElysia/YeElysia/blob/master/profile-3d-contrib/profile-season-animate.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://raw.githubusercontent.com/YeElysia/YeElysia/5044baa6d0289228377567c400a8324860bea37c/profile-3d-contrib/profile-season-animate.svg" />
+  <img align="center" src="https://github.com/YeElysia/YeElysia/blob/master/profile-3d-contrib/profile-season-animate.svg" />
 </picture>
