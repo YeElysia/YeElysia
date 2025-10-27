@@ -25,7 +25,7 @@
 
 <picture>
   <source
-    srcset="https://github.com/YeElysia/YeElysia/blob/master/profile-3d-contrib/profile-season-animate.svg"
+    srcset="https://github.com/YeElysia/YeElysia/blob/master/profile-3d-contrib/profile-night-green.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
